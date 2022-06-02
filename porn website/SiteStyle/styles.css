@@ -1,0 +1,213 @@
+body {
+
+    background-color: #1b1b1b;
+
+}
+
+.banner {
+
+    text-align: left;
+    background-color: black;
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: orange;
+    z-index: 2;
+    font-size: larger;
+    font-variant: small-caps;
+
+}
+
+#navigation {
+
+    z-index: 3;
+    padding-left: 10px;
+    display: block;
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    top: 108px;
+    left: 0px;
+    background-color: #141414;
+
+
+}
+
+#navigation a {
+
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: 25px;
+    color: orange;
+    border-left: black;
+    border-left-style: solid;
+    border-width: 2px;
+
+}
+
+#navigation a:hover {
+
+    border-left: black;
+    border-left-style: solid;
+    border-width: 1px;
+    padding-left: 3px;
+
+}
+
+#maincontent {
+
+    margin-left: 200px;
+    position: absolute;
+
+}
+
+/* These are the active links */
+
+#active {
+
+    background-color: white;
+    width: auto;
+
+}
+
+#active1 {
+
+    background-color: white;
+    width: auto;
+
+}
+
+#active2 {
+
+    background-color: white;
+    width: auto;
+
+}
+
+#active3 {
+
+    background-color: white;
+    width: auto;
+
+}
+
+#active4 {
+
+    background-color: white;
+
+}
+
+.header1 {
+
+    font-size: 30px;
+    color: orange;
+
+}
+
+.header2 {
+
+    font-size: 28px;
+
+}
+
+#footer {
+
+    display: block;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 90px;
+    top: 3580px;
+    left: 0px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+
+}
+
+#footer1 {
+
+    display: block;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 90px;
+    top: 2150px;
+    left: 0px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+
+}
+
+#footer2 {
+
+    display: block;
+    background-color: black;
+    color: white;
+    width: 294%;
+    height: 90px;
+    top: 1000px;
+    left: 0px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+
+}
+
+#footer3 {
+
+    display: block;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 90px;
+    top: 1000px;
+    left: 0px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+
+}
+
+#footer a {
+
+    text-decoration: none;
+
+}
+
+#footer1 a {
+
+    text-decoration: none;
+
+}
+
+#maincontent h4 {
+
+    font-family: sans-serif;
+
+}
+
+#maincontent a {
+
+    text-decoration: none;
+
+}
+
+#maincontent a:visited {
+
+    color: blue;
+
+}
+
+#maincontent a:hover {
+
+    text-decoration: underline;
+
+}
+

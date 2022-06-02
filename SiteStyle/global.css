@@ -1,0 +1,117 @@
+body {
+
+    background-color: #1b1b1b;
+    color: white;
+    background-image: url("https://cdn.wallpapersafari.com/50/4/BbIy5s.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.banner {
+
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.link1 {
+
+    background-color: #fc0335;
+    display: block;
+    position: fixed;
+    width: 520px;
+    height: 300px;
+    left: 180px;
+    top: 300px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: black;
+    z-index: 2;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.link1 img {
+
+    position: relative;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+
+}
+
+.link2 {
+
+    background-color: #fc0335;
+    display: block;
+    position: fixed;
+    width: 520px;
+    height: 300px;
+    left: 730px;
+    top: 300px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: black;
+    z-index: 2;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.link2 img {
+
+    position: relative;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.link3 {
+
+    background-color: #fc0335;
+    display: block;
+    position: fixed;
+    width: 520px;
+    height: 300px;
+    left: 1280px;
+    top: 300px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: black;
+    z-index: 2;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.link3 img {
+
+    position: relative;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+#caps {
+
+    font-variant: small-caps;
+
+}
+
+.secret {
+
+    background-color: #fc0335;
+    display: block;
+    position: fixed;
+    width: 35px;
+    height: 15px;
+    left: 80px;
+    top: 20px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: black;
+    z-index: 2;
+    border-radius: 5px;
+    text-align: center;
+
+}
